@@ -1,4 +1,5 @@
 public class HaloGeneric {
+
     public static void SapaUser(String name) {
         System.out.printf("Halo user %s",name);
     }
