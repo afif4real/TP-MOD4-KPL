@@ -1,5 +1,5 @@
 public class HaloGeneric {
-    //1302204076
+
     public static void SapaUser(String name) {
         System.out.printf("Halo user %s",name);
     }
